@@ -7,7 +7,7 @@
 
 
 ## Revision, put your commit number here
-* Sort from larger to smaller:
+* Sort from larger to smaller:f7ceaba90aea715742f44c61dc80e94a7cbec734
 * Without flag:
 
 ## Questions
@@ -29,4 +29,4 @@ Answer: เพื่อกำหนดว่าการทำงานเป็
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer: เอาลูป while ออก แล้วใส่ลูป for แทน แล้วการประมวลผลจะช้าลง
