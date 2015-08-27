@@ -6,7 +6,7 @@
 
 ## Revision, put your commit number here
 * Three functions:bb05ffc75f3bc7b3351eb48e6c83e942c08d00d9
-* Get input from command line:
+* Get input from command line:df1f27c09b15293919ca25cab548592a8f386fef
 
 ## Questions
 1. What are the limitations of your new code?
